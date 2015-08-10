@@ -72,76 +72,12 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
 
-#EXTINF:0, USA Network
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-
-
-#EXTINF:0, Weather Channel
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-
 #EXTINF:0, CTV
 http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
 
 
-#EXTINF:0, Lifetime HD
-http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
-
-
-#EXTINF:0, HGTV
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-
-
-#EXTINF:0, Tru TV
-http://vip1.mbox-addon.com:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?xs=_we_dWhucjQxNjF5YmlvYTV3fDE0Mzg0OTUzMzJ8MTQ5LjI1NS42Mi4xM3w1NWJkMjVjNGEyYTU1fDMxNTlmMjVmMDhiNGFlMGM0ZDU1NjA1YTM1NmY4NjE2Y2U0Mzg0ODc.
-
-
-#EXTINF:0, A&E
-http://31.220.40.105/LiveEdge/AEEastUS/playlist.m3u8?token=09ebd2b3d205c702703acc2c73bcaab0
-
-
-#EXTINF:0, Spike TV
-http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-
-
-#EXTINF:0, HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-
-
-#EXTINF:0, TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-
-
-#EXTINF:0, AMC
-http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
-
-
-#EXTINF:0, MTV HD
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-
-
-#EXTINF:0, SHOwtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-
-
-#EXTINF:0, Hallmark Channel
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
-
-
-#EXTINF:0, TBS
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
-
-
-#EXTINF:0, SYFY HD
-http://vip1.mbox-addon.com:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?xs=_we_eDd1aWk3bWxsMmI3bGg0fDE0Mzg0OTUwNjZ8MTQ5LjI1NS42Mi4xM3w1NWJkMjRiYTRiYzhifGQyNTgyMzRkYWRhM2M2YzdlNGVmNWE4YWNmNGIzZDgzMTRhNGM3ODM.
-
-
 #EXTINF:0, TLC
 http://80.80.160.168/live/2/live.m3u8
-
-
-#EXTINF:0, Bravo TV
-http://vip1.mbox-addon.com:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?xs=_we_dXc0MzNpa3Fucmo1MDFsfDE0Mzg0OTUwMjV8MTQ5LjI1NS42Mi4xM3w1NWJkMjQ5MThmYzQ2fDdmNzJlZmNiZDYxMTk1ODhhNDA4MDJkNDExYTlkMWRhZDc2ZTFjYjA.
 
 
 #EXTINF:0, MLS TV
@@ -164,100 +100,8 @@ http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:0, Nascar
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/69.m3u8
-
-
-#EXTINF:0, Barca TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
-
-
-#EXTINF:0, Manchester United TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/122.m3u8
-
-
-#EXTINF:0, BT Sport 1
-http://195.154.231.213:1935/live/btsports1lsh/playlist.m3u8
-
-
-#EXTINF:0, BT Sport 2
-http://195.154.231.213:1935/live/btsports2lsh/playlist.m3u8
-
-
-#EXTINF:0, Sky Sport 1
-http://195.154.231.213:1935/live/skysports1lsh/playlist.m3u8
-
-
-#EXTINF:0, Sky Sport 2
-http://195.154.231.213:1935/live/skysports2lsh/playlist.m3u8
-
-
-#EXTINF:0, Sky Sport 3
-http://195.154.231.213:1935/live/skysports3lsh/playlist.m3u8
-
-
-#EXTINF:0, Sky Sport 4
-http://195.154.231.213:1935/live/skysports4lsh/playlist.m3u8
-
-
-#EXTINF:0, Sky Sport 5
-http://195.154.231.213:1935/live/skysports5lsh/playlist.m3u8
-
-
-#EXTINF:0, Premiere Sports
-http://195.154.231.213:1935/live/vpremspllsh/playlist.m3u8
-
-
-#EXTINF:0, Sport Time TV 1 (VLC ONLY)
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8
-
-
-#EXTINF:0, Sport Time TV 2 (VLC ONLY)
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
-
-
-#EXTINF:0, Sport Time TV 3 (VLC ONLY)
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_1200.mp4.m3u8
-
-
-#EXTINF:0, Sport Time TV 4 (VLC ONLY)
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8
-
-
-#EXTINF:0, Sport Time TV 5 (VLC ONLY)
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
-
-
-#EXTINF:0, Sport Time TV 6 (VLC ONLY)
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
-
-
-#EXTINF:0, Sport Time TV 7 (VLC ONLY)
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8
-
-
 #EXTINF:0, Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-
-#EXTINF:0, Eurosport 1
-http://195.154.231.213:1935/live/vesplsh/playlist.m3u8
-
-
-#EXTINF:0, Eurosport 2
-http://195.154.231.213:1935/live/vesp2lsh/playlist.m3u8
-
-
-#EXTINF:0, Fight Box HD
-http://serv19.vintera.tv:8081/boxhd/FightboxHD/playlist.m3u8
-
-
-#EXTINF:0, Fast&Fun BOX
-http://serv19.vintera.tv:8081/boxhd/FastnFunHD/playlist.m3u8
-
-
-#EXTINF:0, Motor TV
-http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2
 
 
 #EXTINF:0, PAC 12 Network
