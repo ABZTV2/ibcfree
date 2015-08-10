@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#extinf:0,  KURDISTAN TV
+http://live2.karwan.tv:7777/karwan.tv/kurdistan-tv.stream/chunklist_w1272839179.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE1IDEwOjUwOjM1IFBNJmhhc2hfdmFsdWU9b2V3QXBSTmxmb1dBWlc0STZlZmJ1QT09JnZhbGlkbWludXRlcz01
+
 #EXTINF:0, CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 
