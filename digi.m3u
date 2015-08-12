@@ -1,6 +1,6 @@
 #EXTM3U 
 
-SamiraTv
+#extinf:-1,  SamiraTv
 http://arabic.dynns.com:1935/arabic/SamiraTv/chunklist_w299559257.m3u8?wmsAuthSign
 AlHaddafTVDZ
 http://arabic.dynns.com:1935/arabic/AlHaddafTVDZ/chunklist_w323644997.m3u8?wmsAuthSign
