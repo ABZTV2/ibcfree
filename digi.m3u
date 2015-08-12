@@ -1,7 +1,8 @@
 #EXTM3U 
 
 #extinf:0,  MBC 1
-http://arabic.dynns.com:1935:1935/arabic/MBC1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE1IDU6MjE6MTIgQU0maGFzaF92YWx1ZT1GcFBPeStsSm9KR1ROSFI2ZDdPaXlRPT0mdmFsaWRtaW51dGVzPTI= 
+
+http://arabic.dynns.com:1935:1935/arabic/MBC1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE1IDU6MjE6MTIgQU0maGFzaF92YWx1ZT1GcFBPeStsSm9KR1ROSFI2ZDdPaXlRPT0mdmFsaWRtaW51dGVzPTI
 
 #extinf:0,  KURDISTAN TV
 http://live2.karwan.tv:7777/karwan.tv/kurdistan-tv.stream/chunklist_w1272839179.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE1IDEwOjUwOjM1IFBNJmhhc2hfdmFsdWU9b2V3QXBSTmxmb1dBWlc0STZlZmJ1QT09JnZhbGlkbWludXRlcz01
