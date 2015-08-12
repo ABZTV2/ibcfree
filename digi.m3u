@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#extinf:0,  CNN INTERNATIONAL
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#extinf:0,  MBC 1
+http://38.99.146.36:7777/mbc1_hd.m3u8
 
 #extinf:0,  KURDISTAN TV
 http://live2.karwan.tv:7777/karwan.tv/kurdistan-tv.stream/chunklist_w1272839179.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE1IDEwOjUwOjM1IFBNJmhhc2hfdmFsdWU9b2V3QXBSTmxmb1dBWlc0STZlZmJ1QT09JnZhbGlkbWludXRlcz01
