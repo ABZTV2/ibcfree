@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #extinf:0,  MBC 1
-http://38.99.146.36:7777/MBC1_HD.m3u8?user=11429&session=abb9423e2b7f685556e7ffe0378c60da909812038cfe30f3ca84e6e4c358c148a299017ce29bf1aa
+http://arabic.dynns.com:1935:1935/arabic/MBC1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE1IDU6MjE6MTIgQU0maGFzaF92YWx1ZT1GcFBPeStsSm9KR1ROSFI2ZDdPaXlRPT0mdmFsaWRtaW51dGVzPTI= 
 
 #extinf:0,  KURDISTAN TV
 http://live2.karwan.tv:7777/karwan.tv/kurdistan-tv.stream/chunklist_w1272839179.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDE1IDEwOjUwOjM1IFBNJmhhc2hfdmFsdWU9b2V3QXBSTmxmb1dBWlc0STZlZmJ1QT09JnZhbGlkbWludXRlcz01
