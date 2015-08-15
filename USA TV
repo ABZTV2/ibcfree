@@ -4,6 +4,9 @@
 #EXTINF:-1,[COLOR yellow]— US CHANNELS —[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:0, NBC EAST
+http://www.tvpc.com/Channel.php?ChannelID=61221
+
 #EXTINF:0,fox news
 http://64.100.15.201/udp/239.255.2.1:10001
 #EXTINF:0,tnt
